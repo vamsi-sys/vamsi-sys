@@ -84,12 +84,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=default&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=default&cache_seconds=86400" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vamsi-sys&theme=transparent" height="160" />
+  <img src="https://streak-stats.demolab.com?user=vamsi-sys&theme=default" height="160" />
 </p>
 
 ---

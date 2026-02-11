@@ -142,12 +142,12 @@ Developing automation-first systems to reduce manual work and connect tools.
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vamsi-sys&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=vamsi-sys&theme=tokyonight&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 </p>
 
 ---

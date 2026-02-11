@@ -1,104 +1,176 @@
-<!-- PROFILE README: vamsi-sys (Updated Premium Version) -->
+<!-- ================= RECRUITER READY GITHUB PROFILE ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vamsikrishna%20Sirimalla&fontAlign=50&fontAlignY=40&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Vamsikrishna%20Sirimalla&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Fresher | Software Developer | Python | AI/ML | AI Agents + n8n | Full Stack Learner</h2>
+<h2 align="center">AI/ML Engineer • Python Developer • Backend • AI Agents • Automation</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vamsikrishna-sirimalla-57554b228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" />
-  </a>
-  <a href="mailto:vamsikrishnasirimalla@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red" />
-  </a>
-  <a href="https://github.com/vamsi-sys" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black" />
-  </a>
+  <a href="mailto:vamsikrishnasirimalla@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/vamsikrishna-sirimalla-57554b228/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square"/></a>
+  <a href="https://github.com/vamsi-sys"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square"/></a>
 </p>
 
 ---
 
-## 👋 About Me
-- 🎓 **Fresher (2025 Batch)**
-- 💻 Interested in: **Software Development, Backend Systems, AI/ML, Automation**
-- 🤖 Strong interest in building **AI Agents + n8n Automation Workflows**
-- 🎯 Currently working on: **Personalized AI News & Research Agent** ✅
-- 🌱 Learning: **Deep Learning, System Design, Advanced Backend**
+## 🌐 Portfolio
+
+🚀 Personal Portfolio Website  
+Showcases my projects, AI work, backend systems, and automation builds.
+
+🔗 https://vamsi-portfolio.vercel.app  
+*(Currently being updated — production version coming soon.)*
 
 ---
 
-## 🧠 Tech Stack
+## 👋 Professional Summary
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Basic JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+🎓 BTech — Artificial Intelligence & Machine Learning (2025)  
+💼 Fresher building **production-style backend + AI systems**  
+🤖 Focused on **AI Agents, LLM integration, automation workflows**  
+🚀 Currently developing **Personalized AI News & Research Agent**
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) <!-- ✅ Added -->
-
-### 🤖 AI + Automation
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-000?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-000?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n%20Automation-000?style=for-the-badge)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-000?style=for-the-badge&logo=googlecolab) <!-- ✅ Added -->
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker) <!-- ✅ Added -->
+I specialize in combining:
+- AI + Backend  
+- APIs + Automation  
+- Databases + Production workflows  
 
 ---
 
-## 📌 Featured Projects
-✅ **Personalized AI News & Research Agent (In Progress)**  
-- Daily news scraping + summarization using LLMs  
-- "Chat with your daily news" style interface  
-- Goal: Build an autonomous research assistant using AI + automation  
+## 🧠 Core Technical Skills
 
-✅ **Backend API Projects**
-- REST API development and integration  
-- Tech: **Python / FastAPI + Database**
+### Languages
+- Python
+- JavaScript
 
-✅ **Database + JSON Handling Projects**
-- Structured workflows for storing and retrieving data  
-- Tech: **PostgreSQL / MySQL + Python**
+### Backend & Development
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- React
+- Tailwind CSS
 
-📌 *More projects are available in my repositories — I’m continuously improving and adding new work.*
+### Databases
+- PostgreSQL
+- MySQL
+
+### AI / ML / Automation
+- Machine Learning
+- Deep Learning fundamentals
+- LLM integration
+- AI Agents
+- n8n automation workflows
+
+### Tools
+- Docker
+- Google Colab
+- Git & GitHub
+- Postman
+- VS Code
+- Linux
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ Featured Projects
+
+### 🧠 Personalized AI News & Research Agent (Flagship)
+**Status:** In Development  
+
+An intelligent AI system that automates news collection, summarization, and interaction.
+
+**Key capabilities:**
+- Fetches real-time news from multiple sources  
+- Uses LLMs for contextual summarization  
+- Chat-style interface to interact with daily news  
+- Automated workflows using n8n  
+- Backend-driven architecture  
+
+**Tech Stack:**  
+Python • LLMs • Automation • APIs • n8n • Backend Systems  
+
+---
+
+### ⚙️ Backend API & Database Systems
+Designed and implemented structured backend services.
+
+**Highlights:**
+- REST API development  
+- JSON data pipelines  
+- Database integration and optimization  
+- Production-style backend workflows  
+
+**Tech:** FastAPI • Python • PostgreSQL • MySQL  
+
+---
+
+### 🤖 AI / Machine Learning Implementations
+Built ML-based experimental and learning projects focused on real-world understanding.
+
+**Work includes:**
+- Data preprocessing pipelines  
+- Model experimentation  
+- Result evaluation & improvement  
+
+**Tech:** Python • ML libraries • Google Colab  
+
+---
+
+### 🔄 Automation Workflows with n8n
+Developing automation-first systems to reduce manual work and connect tools.
+
+**Use cases:**
+- Learning progress automation  
+- Task scheduling systems  
+- Workflow orchestration  
+- Notification pipelines  
+
+**Tech:** n8n • APIs • Backend logic  
+
+---
+
+## 📜 Certifications
+
+🏅 Machine Learning Virtual Internship — Bharat Intern  
+🏅 Artificial Intelligence Training — Corizo  
+🏅 Python 101 for Data Science — IBM Cognitive Class  
+🏅 Artificial Intelligence & Machine Learning Internship — YBI Foundation  
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=default&cache_seconds=86400" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=default&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vamsi-sys&theme=default" height="160" />
+  <img src="https://streak-stats.demolab.com?user=vamsi-sys&theme=tokyonight"/>
 </p>
+
+---
+
+## 🎯 Career Focus
+
+Open to roles in:
+
+- Software Development  
+- Backend Engineering  
+- AI/ML Engineering  
+- Automation Engineering  
 
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: **vamsikrishnasirimalla@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/vamsikrishna-sirimalla-57554b228/**
-- 💻 GitHub: **https://github.com/vamsi-sys**
+
+📧 Email: vamsikrishnasirimalla@gmail.com  
+💼 LinkedIn: linkedin.com/in/vamsikrishna-sirimalla-57554b228  
+💻 GitHub: github.com/vamsi-sys  
 
 ---
 
-⭐ *If you like my work, please consider starring my repositories!*
+<p align="center">
+  ⭐ Open to internships & entry-level opportunities in AI, Backend, and Software Development
+</p>

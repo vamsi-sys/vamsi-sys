@@ -1,11 +1,11 @@
 <!-- ====================== AI ENGINEER PROFILE ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Vamsikrishna%20Sirimalla&fontAlign=50&fontAlignY=38&fontSize=48&color=0:4e54c8,25:8f94fb,50:00c6ff,75:0072ff,100:232526&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Vamsikrishna%20Sirimalla&fontAlign=50&fontAlignY=40&fontSize=52&color=0:0f0c29,25:302b63,50:24243e,75:1f1c2c,100:000000&fontColor=00E0FF&animation=twinkling" />
 </p>
 
 <h3 align="center">
-AI/ML Engineer • Python Developer • Backend Systems • AI Agents • Automation
+AI/ML Engineer • Python Developer • Backend • AI Agents • Automation
 </h3>
 
 <p align="center">

@@ -19,8 +19,7 @@
 🚀 Personal Portfolio Website  
 Showcases my projects, AI work, backend systems, and automation builds.
 
-🔗 https://vamsi-portfolio.vercel.app  
-*(Currently being updated — production version coming soon.)*
+🔗 https://vamsi-sirimalla-portfolio.vercel.app/
 
 ---
 

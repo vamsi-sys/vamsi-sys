@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7F77DD,50:378ADD,100:1D9E75&text=Hi%20There!%20I'm%20Vamsi%20%F0%9F%91%8B&fontAlign=50&fontAlignY=38&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
 <img src="https://avatars.githubusercontent.com/vamsi-sys" width="120" style="border-radius:50%;border:4px solid #7F77DD" alt="Vamsikrishna Sirimalla avatar"/>
-
+![snake](https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg)
 ### Vamsikrishna Sirimalla
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=378ADD&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer;Backend+%26+API+Developer;Building+AI+Agents+%2B+Automation;Open+to+Internships+%26+SDE+Roles" alt="Typing SVG"/>
@@ -26,7 +26,7 @@
 <br>
 
 ## 🧑‍💻 About me
-
+![snake](https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg)
 - 🎓 BTech in **Artificial Intelligence & Machine Learning** (2025)
 - 🚀 Building production-style **AI + Backend systems**
 - 🤖 Currently developing a **Personalized AI News & Research Agent**
@@ -188,7 +188,7 @@ Music recommendation system built on feature analysis and ML clustering.
 <br>
 
 <div align="center">
-
+![snake](https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg)
 ### 📫 Let's connect
 
 <a href="mailto:vamsikrishnasirimalla@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>&nbsp;

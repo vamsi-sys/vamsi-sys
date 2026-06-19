@@ -188,7 +188,7 @@ Music recommendation system built on feature analysis and ML clustering.
 <br>
 
 <div align="center">
-![snake](https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg)
+
 ### 📫 Let's connect
 
 <a href="mailto:vamsikrishnasirimalla@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>&nbsp;

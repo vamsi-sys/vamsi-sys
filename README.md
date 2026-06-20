@@ -159,11 +159,6 @@ A political strategy simulation game across Andhra Pradesh & Telangana — becom
 
 <br>
 
-<div align="center">
-  <h3>My Contribution Snake</h3>
-  <img src="https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
 ## 📜 Certifications
 
 | 🏅 Certificate | Issuer |

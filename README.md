@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7F77DD,50:378ADD,100:1D9E75&text=Hi%20There!%20I'm%20Vamsi%20%F0%9F%91%8B&fontAlign=50&fontAlignY=38&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7F77DD,50:378ADD,100:1D9E75&text=Hi%20There!%20I'm%20Vamsi%20%F0%9F%91%8B&fontAlign=50&fontAlignY=38&fontSize=30&fontC[...]"/>
 
 <img src="https://avatars.githubusercontent.com/vamsi-sys" width="120" style="border-radius:50%;border:4px solid #7F77DD" alt="Vamsikrishna Sirimalla avatar"/>
 
 ### Vamsikrishna Sirimalla
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=378ADD&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer;Backend+%26+API+Developer;Building+AI+Agents+%2B+Automation;Open+to+Internships+%26+SDE+Roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=378ADD&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer;Backend+%26+API+Developer;Build[...]"/>
 
 <p>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-1D9E75?style=for-the-badge&logo=statuspage&logoColor=white"/>
@@ -17,7 +17,7 @@
 <p>
 <a href="mailto:vamsikrishnasirimalla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/vamsikrishna-sirimalla-57554b228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://vamsi-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://vamsi-sirimalla-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/vamsi-sys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -77,8 +77,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7F77DD&icon_color=1D9E75&text_color=9da7bd"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7F77DD&text_color=9da7bd"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7F77DD&icon_color=1D9E75&text_c[...]"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7F77DD&text_color=9da[..."/>
 
 <img src="https://streak-stats.demolab.com?user=vamsi-sys&theme=tokyonight&hide_border=true&background=00000000&ring=7F77DD&fire=D85A30&currStreakLabel=378ADD"/>
 
@@ -193,7 +193,7 @@ Music recommendation system built on feature analysis and ML clustering.
 
 <a href="mailto:vamsikrishnasirimalla@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/vamsikrishna-sirimalla-57554b228/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>&nbsp;
-<a href="https://vamsi-portfolio.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>&nbsp;
+<a href="https://vamsi-sirimalla-portfolio.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>&nbsp;
 <a href="https://github.com/vamsi-sys"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 
 <br><br>

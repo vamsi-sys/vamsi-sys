@@ -84,6 +84,8 @@ VAMSIKRISHNA SIRIMALLA
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-sys&theme=react-dark&hide_border=true&bg_color=00000000&color=FFD93D&line=4D96FF&point=FF6B6B"/>
 
+<img src="https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+
 </div>
 
 <br>

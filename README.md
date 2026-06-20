@@ -24,7 +24,6 @@ VAMSIKRISHNA SIRIMALLA
 </div>
 
 <br>
-![snake](https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg)
 
 ## 🧑‍💻 About me
 
@@ -159,6 +158,11 @@ A political strategy simulation game across Andhra Pradesh & Telangana — becom
 </table>
 
 <br>
+
+<div align="center">
+  <h3>My Contribution Snake</h3>
+  <img src="https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
 ## 📜 Certifications
 

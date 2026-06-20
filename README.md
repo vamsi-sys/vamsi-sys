@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7F77DD,50:378ADD,100:1D9E75&text=Hi%20There!%20I'm%20Vamsi%20%F0%9F%91%8B&fontAlign=50&fontAlignY=38&fontSize=30&fontC[...]"/>
+<h1 style="font-family: 'Trebuchet MS', sans-serif; font-size: 56px; font-weight: 900; letter-spacing: 2px;">
+VAMSIKRISHNA SIRIMALLA
+</h1>
 
-<img src="https://avatars.githubusercontent.com/vamsi-sys" width="120" style="border-radius:50%;border:4px solid #7F77DD" alt="Vamsikrishna Sirimalla avatar"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:FF6B6B,25:FFD93D,50:6BCB77,75:4D96FF,100:9B5DE5&text=AI%2FML%20Engineer%20%7C%20Backend%20Developer&fontAlign=50&fontAlignY=55&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 
-### Vamsikrishna Sirimalla
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=378ADD&center=true&vCenter=true&width=560&lines=AI%2FML+Engineer;Backend+%26+API+Developer;Build[...]"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=900&color=4D96FF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%2B+Automation;FastAPI+%7C+Python+%7C+LLM+Integration;Open+to+Internships+%26+SDE+Roles" alt="Typing SVG"/>
 
 <p>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-1D9E75?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/github/followers/vamsi-sys?style=for-the-badge&color=7F77DD&logo=github&labelColor=2C2C2A"/>
-<img src="https://img.shields.io/badge/Repos-15-378ADD?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-6BCB77?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=2C2C2A"/>
+<img src="https://img.shields.io/github/followers/vamsi-sys?style=for-the-badge&color=FF6B6B&logo=github&labelColor=2C2C2A"/>
+<img src="https://img.shields.io/badge/Repos-15-4D96FF?style=for-the-badge&logo=git&logoColor=white&labelColor=2C2C2A"/>
 </p>
 
 <p>
-<a href="mailto:vamsikrishnasirimalla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:vamsikrishnasirimalla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2C2C2A&borderRadius=20"/></a>
 <a href="https://www.linkedin.com/in/vamsikrishna-sirimalla-57554b228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://vamsi-sirimalla-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://vamsi-sirimalla-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9B5DE5?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/vamsi-sys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -26,7 +26,7 @@
 <br>
 
 ## 🧑‍💻 About me
-![snake](https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg)
+
 - 🎓 BTech in **Artificial Intelligence & Machine Learning** (2025)
 - 🚀 Building production-style **AI + Backend systems**
 - 🤖 Currently developing a **Personalized AI News & Research Agent**
@@ -42,31 +42,31 @@
 
 **Languages & AI/ML**
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-7F77DD?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-7F77DD?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Integration-1D9E75?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n%20Automation-1D9E75?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FFD93D?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FFD93D?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-6BCB77?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-4D96FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n%20Automation-9B5DE5?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 **Backend & Frontend**
 <p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-FFD93D?style=for-the-badge&logo=node.js&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express.js-6BCB77?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-4D96FF?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-9B5DE5?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 **Databases & Tools**
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-FF6B6B?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-FFD93D?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-6BCB77?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-4D96FF?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-9B5DE5?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6B6B?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 </div>
@@ -77,60 +77,18 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7F77DD&icon_color=1D9E75&text_c[...]"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7F77DD&text_color=9da[..."/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vamsi-sys&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=FF6B6B&icon_color=FFD93D&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-sys&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=4D96FF&text_color=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com?user=vamsi-sys&theme=tokyonight&hide_border=true&background=00000000&ring=7F77DD&fire=D85A30&currStreakLabel=378ADD"/>
+<img src="https://streak-stats.demolab.com?user=vamsi-sys&theme=radical&hide_border=true&background=00000000&ring=9B5DE5&fire=FF6B6B&currStreakLabel=4D96FF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-sys&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7F77DD&line=378ADD&point=1D9E75"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-sys&theme=react-dark&hide_border=true&bg_color=00000000&color=FFD93D&line=4D96FF&point=FF6B6B"/>
 
 </div>
 
-<details>
-<summary>📈 Contribution snake (animated)</summary>
 <br>
 
-Add this workflow once (see setup note below) and it auto-generates a live animated snake eating your contribution graph:
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: vamsi-sys
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then embed in README:
-```md
-![snake gif](https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg)
-```
-</details>
-
-<br>
-
-## 🚀 Featured projects
+## 🚀 Live Projects
 
 <table>
 <tr>
@@ -144,31 +102,56 @@ Real-time news fetching, LLM-based summarization, and a chat interface — power
 </td>
 <td width="50%" valign="top">
 
-### 🔵 Cyber Threat Detection
-AI-powered threat detection using LSTM, CNN, TF-IDF extraction, and PSO optimization with a GUI.
+### 😊 Mood Lab — Facial Expression Recognition
+Live, in-browser facial expression recognition using a MobileNetV2 model fine-tuned on FER2013. Works via webcam or photo upload.
 <br><br>
-`Python` `LSTM` `CNN`
-[`Repo →`](https://github.com/vamsi-sys/btech-event-based-threat-detection)
+`MobileNetV2` `FastAPI` `OpenCV`
+<br>
+[**🔗 Live Demo**](https://projectfacialexpressionrecognition.netlify.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 Emotion Detector — CNN + OpenCV
-Real-time facial emotion recognition using deep learning and computer vision.
+### 🐦 Bird Counting & Weight Estimation
+Real-time bird counting and weight estimation using YOLOv8 object tracking — supports live webcam, RTSP/IP cameras, and offline video.
 <br><br>
-`Python` `CNN` `OpenCV`
-[`Repo →`](https://github.com/vamsi-sys/btech-emotion-detector-CNN--OpenCV)
+`YOLOv8` `WebSocket` `FastAPI`
+<br>
+[**🔗 Live Demo**](https://project-bird-counting-realtime.onrender.com)
 
 </td>
 <td width="50%" valign="top">
 
-### 🟢 Spotify Song Suggestions
-Music recommendation system built on feature analysis and ML clustering.
+### 📅 AI Appointment Booking Assistant
+Book appointments by chatting in plain language — parses requests, checks for conflicts, and confirms slots, with an admin approval dashboard.
 <br><br>
-`Python` `Machine Learning`
-[`Repo →`](https://github.com/vamsi-sys/Spotify-songs-suggestions)
+`Next.js` `Prisma` `OpenAI`
+<br>
+[**🔗 Live Demo**](https://project-ai-appointment-booking-assi-omega.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 NoteForge — AI-Powered Notes
+A production-grade note-taking app with optional AI summarization, persisted to Supabase Postgres.
+<br><br>
+`Next.js` `Supabase` `OpenAI`
+<br>
+[**🔗 Live Demo**](https://project-ai-notes.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Political Empire — Multiplayer Game
+A political strategy simulation game across Andhra Pradesh & Telangana — become Chief Minister with real-time multiplayer rooms.
+<br><br>
+`Multiplayer` `Real-time` `Game Logic`
+<br>
+[**🔗 Live Demo**](https://political-empire-multiplayer-game.vercel.app/)
 
 </td>
 </tr>
@@ -198,8 +181,8 @@ Music recommendation system built on feature analysis and ML clustering.
 
 <br><br>
 
-![Profile views](https://komarev.com/ghpvc/?username=vamsi-sys&color=7F77DD&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=vamsi-sys&color=FF6B6B&style=for-the-badge&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1D9E75,50:378ADD,100:7F77DD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:9B5DE5,25:4D96FF,50:6BCB77,75:FFD93D,100:FF6B6B"/>
 
 </div>

@@ -24,6 +24,7 @@ VAMSIKRISHNA SIRIMALLA
 </div>
 
 <br>
+![snake](https://raw.githubusercontent.com/vamsi-sys/vamsi-sys/output/github-contribution-grid-snake.svg)
 
 ## 🧑‍💻 About me
 

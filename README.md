@@ -157,8 +157,22 @@ A political strategy simulation game across Andhra Pradesh & Telangana — becom
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
+### 🏰 Empire Lane — Online Tycoon Board Game
+A property-trading board game played entirely peer-to-peer in the browser via WebRTC — no backend, no database, no sign-up. Host a table, share a room code, and play in real time.
+<br><br>
+`JavaScript` `WebRTC` `PeerJS`
+<br>
+[**🔗 Live Demo**](https://vamsi-sys.github.io/Empires-Lane-Multiplayer-Game/) · [**📦 Repo**](https://github.com/vamsi-sys/Empires-Lane-Multiplayer-Game)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 <br>
 
 ## 📜 Certifications
